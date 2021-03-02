@@ -12,4 +12,4 @@ client.on("message", async message => {
       if(!content) return;
           chatbot.getReply(content).then(r => message.channel.send(r));
             });
-client.login(process.env.token);
+client.login(process.env.Nzk2NTIwODg3MDYyMzY0MTc5.X_ZH4g.zTtEO9pTT9eQkZEfIJcRb3KFqWw);
